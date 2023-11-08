@@ -22,5 +22,5 @@ class RandomID
 	public const ID_LENGTH = 24;
 	public const ID_TYPE = 'string';
 	public const LEGACY_ID_NAME = 'legacy_id';
-	public const LEGACY_ID_TYPE = 'integer';
+	public const LEGACY_ID_TYPE = 'string';
 }
